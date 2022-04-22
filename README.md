@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently a student
 - 🌱 I’m learning medical image manipulation and analisys
-- 👀 I’m interested in Deep Learning 
+- 👀 I’m interested in Deep Learning and Data Analysis
 
 <div> 
    <a href="https://www.linkedin.com/in/luciano-gabriel-araujo-b29a581ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
